@@ -1,4 +1,4 @@
-﻿![](Aspose.Words.fc907a1b-c04b-4f33-bce2-4fdfdbfe2d38.001.png)
+﻿![](image.png)
 
 1. We will launch AWS EC2 instance with Elastic Block Store (EBS). 
 
