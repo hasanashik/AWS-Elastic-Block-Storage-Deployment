@@ -16,6 +16,13 @@ This repository contains instructions and scripts for setting up an AWS EC2 inst
 
    ```bash
    ssh -i your-key.pem ubuntu@your-instance-ip
+   ```
+3. **Check Disk Space Usage:**
+
+   To check disk space usage in a human-readable format, use the following command:
+   ```bash
+   df -h
+   ```
 
 
 
